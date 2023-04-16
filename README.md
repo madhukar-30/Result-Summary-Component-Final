@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [Add solution URL here](https://github.com/madhukar-30/Result-Summary-Component-Final.git)
 - Live Site URL: [Add live site URL here](https://643c43df47e74102b98ce9d9--unrivaled-marigold-22fde0.netlify.app/)
 
 ## My process
