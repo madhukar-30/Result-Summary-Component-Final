@@ -128,6 +128,9 @@ color:white;
   .test-sub p{
    margin-left:0.4rem;
   }
+.test p span{
+  color:var(--Dark-gray-blue);
+}
   .reaction-test{
     background-color: hsla(0, 100%, 67%, 0.057);
   }
